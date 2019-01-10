@@ -101,7 +101,7 @@
 				</div><!-- pagination -->
 
 
-			<?php else : ?>
+			<?php else : ?> 
 				
 				<article class="post error">
 					<h1 class="404">Nothing posted yet</h1>
